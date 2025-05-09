@@ -1,0 +1,9 @@
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\bin\Debug\netstandard2.1\CustomBoomboxSound.deps.json
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\bin\Debug\netstandard2.1\CustomBoomboxSound.dll
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\CustomBoomboxSound.csproj.AssemblyReference.cache
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\MyPluginInfo.cs
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\CustomBoomboxSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\CustomBoomboxSound.AssemblyInfoInputs.cache
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\CustomBoomboxSound.AssemblyInfo.cs
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\CustomBoomboxSound.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\Desktop\repo pedro\CustomBoomboxSound\obj\Debug\netstandard2.1\CustomBoomboxSound.dll

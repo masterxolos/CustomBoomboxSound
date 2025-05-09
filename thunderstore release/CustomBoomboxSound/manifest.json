@@ -1,0 +1,9 @@
+{
+  "name": "CustomBoomboxSound",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/masterxolos/CustomBoomboxSound", 
+  "description": "Replaces the boombox music with a custom track. Includes 'Susan - Royalty Free Instrumental Disco-House Music Loop (125 bpm)'.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100"
+  ]
+}
